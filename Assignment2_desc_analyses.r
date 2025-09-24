@@ -1,4 +1,3 @@
-library(readr)
 penguins = read_csv("~/Downloads/penguins.csv")
 View(penguins)
 
